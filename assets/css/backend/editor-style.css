@@ -1,0 +1,67 @@
+.smallSvgIcon {
+	max-height: 25px;
+}
+
+.plusLogo {
+	cursor: pointer;
+}
+
+#testimonials-editor label span {
+	margin-right: 10px;
+}
+
+#testimonials-editor .leftcol {
+	float: left;
+	max-width: 18%;
+	width: 100%;
+}
+
+#testimonials-editor .rightcol {
+	max-width: 82%;
+	width: 100%;
+}
+
+#testimonials-editor .rightcol textarea {
+	vertical-align: text-top;
+}
+
+#testimonials-editor .testimonials-list-item {
+	position: relative;
+	width: 100%;
+}
+
+#testimonials-editor .testimonials-list-item .testimonials-item-title, #testimonials-editor .testimonials-list-item .testimonials-item-content, #testimonials-editor .testimonials-list-item .testimonials-item-attribution {
+	position: relative;
+	width: 100%;
+}
+
+#testimonials-editor .testimonials-inputrow {
+	position: relative;
+	width: 100%;
+}
+
+#testimonials-editor .testimonials-inputrow div.testimonials-leftcol, #testimonials-editor .testimonials-inputrow div.testimonials-rightcol {
+	position: relative;
+	width: 100%;
+	float: left;
+}
+
+#testimonials-editor .testimonials-inputrow div.testimonials-leftcol {
+	max-width: 25%;
+}
+
+#testimonials-editor .testimonials-inputrow div.testimonials-rightcol {
+	max-width: 75%;
+}
+
+#testimonials-editor .testimonials-inputrow .editor-rich-text, #testimonials-editor .testimonials-inputrow .block-editor-rich-text {
+	margin-left: 25%;
+	background: white;
+}
+
+#testimonials-editor .testimonials-inputrow .editor-rich-text h3, #testimonials-editor .testimonials-inputrow .block-editor-rich-text h3 {
+	padding-left: 10px;
+	border: 1px solid #7d919a;
+}
+
+/*# sourceMappingURL=maps/editor-style.css.map */

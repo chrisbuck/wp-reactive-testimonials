@@ -1,0 +1,60 @@
+.carousel-item:not(.active) {
+	display: none;
+}
+
+#testimonials-carousel {
+	font-family: 'EB Garamond', serif;
+}
+
+#testimonials-title-wrapper {
+	text-align: center;
+}
+
+#testimonials-title-wrapper h2.wrapper-title {
+	font-size: 28px;
+	font-weight: 500;
+}
+
+.testimonial-slide {
+	text-align: center;
+}
+
+.testimonial-slide .title-wrapper {
+	padding-bottom: 15px;
+	font-size: 17px;
+	color: #5d5d5d;
+}
+
+.testimonial-slide .testimonial-content {
+	font-size: 17.6px;
+	padding-bottom: 25px;
+}
+
+.testimonial-slide .attribution-wrapper {
+	padding-bottom: 30px;
+	padding-left: 10%;
+}
+
+.testimonial-slide .attribution-wrapper .attribution {
+	font-size: 16px;
+	font-weight: 500;
+}
+
+.testimonial-slide .readmore-wrapper .readmore-button {
+	font-size: 16px;
+	background-color: #2e5d82;
+	padding: 10px 17px;
+	display: inline-block;
+	text-decoration: none;
+	cursor: pointer;
+	color: #daeaff;
+	border: 1px solid #2e5d82;
+	border-radius: 19px;
+}
+
+.testimonial-slide .readmore-wrapper .readmore-button:hover {
+	color: white;
+	background-color: #04253ecc;
+}
+
+/*# sourceMappingURL=maps/slider-style.css.map */
